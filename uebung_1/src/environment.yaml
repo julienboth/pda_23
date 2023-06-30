@@ -1,6 +1,0 @@
-name: analysis-yaml-env
-channels:
-  - defaults
-dependencies:
-  - numpy
-  - pandas=1.2.4
